@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+pydantic[http]  # Optional, for data validation with Pydantic (https://pydantic-docs.helpmanual.io/)
+pillow  # PIL Fork (https://pillow.readthedocs.io/en/stable/)
+fastai
